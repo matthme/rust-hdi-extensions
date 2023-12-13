@@ -13,5 +13,5 @@ name = "hdi_extensions"
 
 [dependencies]
 hdi = "0.3.4-rc.0"
-holo_hash = { version = "0.2.4-rc.0", features = [ "encoding" ] }
+holo_hash = { version = "0.2.3", features = [ "encoding" ] }
 serde = "1"
